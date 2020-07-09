@@ -1,4 +1,4 @@
-<?php namespace robjuz\LaravelPodio;
+<?php namespace stefanmdt\LaravelPodio;
 
 
 class Facade extends \Illuminate\Support\Facades\Facade

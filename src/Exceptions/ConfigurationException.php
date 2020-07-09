@@ -1,6 +1,6 @@
 <?php
 
-namespace robjuz\LaravelPodio\Exceptions;
+namespace stefanmdt\LaravelPodio\Exceptions;
 
 use Exception;
 

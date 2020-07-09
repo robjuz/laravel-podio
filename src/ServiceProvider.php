@@ -1,8 +1,8 @@
 <?php
-namespace robjuz\LaravelPodio;
+namespace stefanmdt\LaravelPodio;
 
 use Illuminate\Foundation\Application;
-use robjuz\LaravelPodio\Exceptions\ConfigurationException;
+use stefanmdt\LaravelPodio\Exceptions\ConfigurationException;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 

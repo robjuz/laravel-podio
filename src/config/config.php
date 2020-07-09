@@ -10,7 +10,7 @@ return [
     'password' => env('PODIO_PASSWORD', null),
 
     'options' => [
-         'session_manager' =>  robjuz\LaravelPodio\PodioCacheSession::class,
+         'session_manager' =>  stefanmdt\LaravelPodio\PodioCacheSession::class,
         // curl_options => '',
     ],
 

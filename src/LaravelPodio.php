@@ -1,10 +1,10 @@
 <?php
 
-namespace robjuz\LaravelPodio;
+namespace stefanmdt\LaravelPodio;
 
 use Podio;
-use robjuz\LaravelPodio\Options\PodioOptions;
-use robjuz\LaravelPodio\Exceptions\ConfigurationException;
+use stefanmdt\LaravelPodio\Options\PodioOptions;
+use stefanmdt\LaravelPodio\Exceptions\ConfigurationException;
 
 class LaravelPodio
 {

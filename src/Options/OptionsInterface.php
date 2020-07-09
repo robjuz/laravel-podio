@@ -1,6 +1,6 @@
 <?php
 
-namespace robjuz\LaravelPodio\Options;
+namespace stefanmdt\LaravelPodio\Options;
 
 interface OptionsInterface
 {
